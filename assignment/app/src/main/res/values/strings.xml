@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Signup</string>
+    <string name="username_or_mobile_no">E-mail or Phone Number</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or">or</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="didn_t_have_account">Didn\'t have account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sig_up_with_facebook">Sig Up with Facebook</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="e_mail">E-mail</string>
+    <string name="send">Send</string>
+    <string name="facebook_app_id">223567315371139</string>
+    <string name="fb_login_protocol_scheme">fb223567315371139</string>
+</resources>
